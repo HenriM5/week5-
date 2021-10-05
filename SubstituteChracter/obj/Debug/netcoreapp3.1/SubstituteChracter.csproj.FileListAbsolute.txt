@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\StringsAndArrays\SubstituteChracter\obj\Debug\netcoreapp3.1\SubstituteChracter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\StringsAndArrays\SubstituteChracter\obj\Debug\netcoreapp3.1\SubstituteChracter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\StringsAndArrays\SubstituteChracter\obj\Debug\netcoreapp3.1\SubstituteChracter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\StringsAndArrays\SubstituteChracter\obj\Debug\netcoreapp3.1\SubstituteChracter.csproj.CoreCompileInputs.cache
